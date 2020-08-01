@@ -18,6 +18,7 @@
 ## Últimos posts
 
 <!-- BLOG-POST-LIST:START -->
+- [El Camino Del Backend Developer: HTTP](https://www.programando.org/blog/2020/07/31/el-camino-del-backend-developer-http/)
 - [La Crueldad de Schrodinger](https://lnds.net/blog/lnds/2020/07/19/la-crueldad-de-schrodinger/)
 - [El camino de un Backend Developer (en 2020)](https://www.programando.org/blog/2020/07/05/el-camino-de-un-backend-developer-en-2020/)
 - [Explorando Anvil Works](https://www.programando.org/blog/2020/07/05/explorando-anvil-works/)
@@ -27,7 +28,6 @@
 - [Niebla De Guerra](https://lnds.net/blog/lnds/2020/04/29/niebla-de-guerra/)
 - [Usabilidad, Seguridad Y Paranoia](https://lnds.net/blog/lnds/2020/04/05/usabilidad-seguridad-y-paranoia/)
 - [Entusiasmo selectivo](https://lnds.net/blog/lnds/2020/03/29/entusiasmo-selectivo/)
-- [Un mundo post pandemia](https://www.akarru.com/blog/2020/03/14/un-mundo-post-pandemia/)
 <!-- BLOG-POST-LIST:END -->
 
 
