@@ -1,12 +1,15 @@
-Hi there!
+### Hi there! I'm Eduardo Díaz - aka [lnds][website] 
 
-This is my github profile
+## I'm developer, speaker and blogger (mainly in spanish).
 
-I'm Eduardo Díaz,  developer, speaker and blogger (in spanish).
+### Hola! Soy Eduardo Día - aka [lnds][website]
 
-Hola!
+-
+-
 
-Este es mi perfil en GitHub
+### Contáctame:
+
+[<img align="left" alt="lnds | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">][twitter]
 
 ## Últimos posts
 
