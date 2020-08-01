@@ -11,6 +11,10 @@
 
 [<img align="left" alt="lnds | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">][twitter]
 
+
+<br>
+<br>
+
 ## Últimos posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -20,6 +24,12 @@
 - [Distopía](https://www.akarru.com/blog/2020/06/28/distop%C3%ADa/)
 - [Diversidad en el Desarrollo de Software: ¡estamos muy mal!](https://lnds.net/blog/lnds/2020/05/31/diversidad-en-el-desarrollo-de-software-estamos-muy-mal/)
 <!-- BLOG-POST-LIST:END -->
+
+
+---
+
+<img align="left" alt="LNDS  Github Stats" src="https://github-readme-stats.vercel.app/api?username=lnds&show_icons=true&hide_border=true" />
+
 
 [website]: https://lnds.net/
 [website]: https://programando.org/
