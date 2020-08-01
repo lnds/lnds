@@ -23,6 +23,11 @@
 - [Explorando Anvil Works](https://www.programando.org/blog/2020/07/05/explorando-anvil-works/)
 - [Distopía](https://www.akarru.com/blog/2020/06/28/distop%C3%ADa/)
 - [Diversidad en el Desarrollo de Software: ¡estamos muy mal!](https://lnds.net/blog/lnds/2020/05/31/diversidad-en-el-desarrollo-de-software-estamos-muy-mal/)
+- [Manos a la obra](https://lnds.net/blog/lnds/2020/05/23/manos-a-la-obra/)
+- [Niebla De Guerra](https://lnds.net/blog/lnds/2020/04/29/niebla-de-guerra/)
+- [Usabilidad, Seguridad Y Paranoia](https://lnds.net/blog/lnds/2020/04/05/usabilidad-seguridad-y-paranoia/)
+- [Entusiasmo selectivo](https://lnds.net/blog/lnds/2020/03/29/entusiasmo-selectivo/)
+- [Un mundo post pandemia](https://www.akarru.com/blog/2020/03/14/un-mundo-post-pandemia/)
 <!-- BLOG-POST-LIST:END -->
 
 
