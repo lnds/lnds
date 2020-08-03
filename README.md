@@ -1,16 +1,18 @@
+
+### Hola! Soy Eduardo Día - aka [lnds][website]
+
+## Soy desarrollador, charlista y blogger -
+
 ### Hi there! I'm Eduardo Díaz - aka [lnds][website] 
 
 ## I'm developer, speaker and blogger (mainly in spanish).
 
-### Hola! Soy Eduardo Día - aka [lnds][website]
-
--
--
 
 ### Contáctame:
 
 [<img align="left" alt="lnds | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">][twitter]
 
+[<img align="left" alt="ediaz | LinkedIn" wifth="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svt">][LinkedIn]
 
 <br>
 <br>
