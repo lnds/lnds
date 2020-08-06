@@ -17,7 +17,7 @@
 [<img align="left" alt="ediaz | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg">][facebook]
 
 
-[<img align="left" alt="lnds | Patreon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ko-fi.svg">][patreon]
+[<img align="left" alt="lnds | Patreon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ko-fi.svg">][kofi]
 <br>
 <br>
 
