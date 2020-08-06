@@ -17,7 +17,7 @@
 [<img align="left" alt="ediaz | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg">][facebook]
 
 
-[<img align="left" alt="lnds | Patreon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/patreon.svg">][patreon]
+[<img align="left" alt="lnds | Patreon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ko-fi.svg">][patreon]
 <br>
 <br>
 
@@ -48,5 +48,5 @@
 [twitter]: https://twitter.com/lnds
 [linkedin]: https://www.linkedin.com/in/ediaz/
 [facebook]: https://www.facebook.com/EduardoDiazCortes
-[patreon]: https://patreon.com/lnds
+[kofi]: https://ko-fi.com/lnds
 
