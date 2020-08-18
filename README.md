@@ -11,7 +11,7 @@
 
 ## I made a new programing language:
 
-    Ogú: https://github.com/ogu-lang
+    Ogú: [ogu]
 
 
 ### Contáctame:
@@ -56,3 +56,4 @@
 [facebook]: https://www.facebook.com/EduardoDiazCortes
 [kofi]: https://ko-fi.com/lnds
 
+[ogu]: https://github.com/ogu-lang
