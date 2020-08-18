@@ -1,11 +1,17 @@
 
 ### Hola! Soy Eduardo Día - aka [lnds][website]
 
-## Soy desarrollador, charlista y blogger -
-
 ### Hi there! I'm Eduardo Díaz - aka [lnds][website] 
 
+## Soy desarrollador, charlista y blogger -
+
 ## I'm developer, speaker and blogger (mainly in spanish).
+
+## Diseñe y construí un lenguaje de programación:
+
+## I made a new programing language:
+
+    Ogú: https://github.com/ogu-lang
 
 
 ### Contáctame:
