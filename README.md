@@ -29,6 +29,7 @@
 ## Últimos posts
 
 <!-- BLOG-POST-LIST:START -->
+- [El Camino Del Backend Developer: Browsers](https://www.programando.org/blog/2020/08/19/el-camino-del-backend-developer-browsers/)
 - [Quince](https://lnds.net/blog/lnds/2020/08/01/quince/)
 - [El Camino Del Backend Developer: HTTP](https://www.programando.org/blog/2020/07/31/el-camino-del-backend-developer-http/)
 - [La Crueldad de Schrodinger](https://lnds.net/blog/lnds/2020/07/19/la-crueldad-de-schrodinger/)
@@ -38,7 +39,6 @@
 - [Diversidad en el Desarrollo de Software: ¡estamos muy mal!](https://lnds.net/blog/lnds/2020/05/31/diversidad-en-el-desarrollo-de-software-estamos-muy-mal/)
 - [Manos a la obra](https://lnds.net/blog/lnds/2020/05/23/manos-a-la-obra/)
 - [Niebla De Guerra](https://lnds.net/blog/lnds/2020/04/29/niebla-de-guerra/)
-- [Usabilidad, Seguridad Y Paranoia](https://lnds.net/blog/lnds/2020/04/05/usabilidad-seguridad-y-paranoia/)
 <!-- BLOG-POST-LIST:END -->
 
 
