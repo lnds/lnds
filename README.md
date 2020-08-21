@@ -36,9 +36,9 @@
 - [La Crueldad de Schrodinger](https://lnds.net/blog/lnds/2020/07/19/la-crueldad-de-schrodinger/)
 - [El camino de un Backend Developer (en 2020)](https://www.programando.org/blog/2020/07/05/el-camino-de-un-backend-developer-en-2020/)
 - [Explorando Anvil Works](https://www.programando.org/blog/2020/07/05/explorando-anvil-works/)
+- [Distopía](https://www.akarru.com/blog/2020/06/28/distop%C3%ADa/)
 - [Diversidad en el Desarrollo de Software: ¡estamos muy mal!](https://lnds.net/blog/lnds/2020/05/31/diversidad-en-el-desarrollo-de-software-estamos-muy-mal/)
 - [Manos a la obra](https://lnds.net/blog/lnds/2020/05/23/manos-a-la-obra/)
-- [Niebla De Guerra](https://lnds.net/blog/lnds/2020/04/29/niebla-de-guerra/)
 <!-- BLOG-POST-LIST:END -->
 
 
