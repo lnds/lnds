@@ -29,6 +29,7 @@
 ## Últimos posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Si es chileno, ¿es bueno?](https://lnds.net/blog/lnds/2020/08/27/si-es-chileno-es-bueno/)
 - [Veintinueve Años De Linux](https://lnds.net/blog/lnds/2020/08/25/veintinueve-anos-de-linux/)
 - [Tres Buenas Prácticas para gestionar tu Código](https://lnds.net/blog/lnds/2020/08/21/tres-buenas-practicas-para-gestionar-tu-codigo/)
 - [El Camino Del Backend Developer: Browsers](https://www.programando.org/blog/2020/08/19/el-camino-del-backend-developer-browsers/)
@@ -38,7 +39,6 @@
 - [El camino de un Backend Developer (en 2020)](https://www.programando.org/blog/2020/07/05/el-camino-de-un-backend-developer-en-2020/)
 - [Explorando Anvil Works](https://www.programando.org/blog/2020/07/05/explorando-anvil-works/)
 - [Distopía](https://www.akarru.com/blog/2020/06/28/distop%C3%ADa/)
-- [Diversidad en el Desarrollo de Software: ¡estamos muy mal!](https://lnds.net/blog/lnds/2020/05/31/diversidad-en-el-desarrollo-de-software-estamos-muy-mal/)
 <!-- BLOG-POST-LIST:END -->
 
 
