@@ -29,6 +29,7 @@
 ## Últimos posts
 
 <!-- BLOG-POST-LIST:START -->
+- [El Camino Del Backend Developer: ¿Front End?](https://www.programando.org/blog/2020/09/26/el-camino-del-backend-developer-front-end/)
 - [El Camino Del Backend Developer: DNS, segunda parte](https://www.programando.org/blog/2020/09/06/el-camino-del-backend-developer-dns-segunda-parte/)
 - [El Camino Del Backend Developer: DNS](https://www.programando.org/blog/2020/09/05/el-camino-del-backend-developer-dns/)
 - [Si es chileno, ¿es bueno?](https://lnds.net/blog/lnds/2020/08/27/si-es-chileno-es-bueno/)
@@ -38,7 +39,6 @@
 - [Quince](https://lnds.net/blog/lnds/2020/08/01/quince/)
 - [El Camino Del Backend Developer: HTTP](https://www.programando.org/blog/2020/07/31/el-camino-del-backend-developer-http/)
 - [La Crueldad de Schrodinger](https://lnds.net/blog/lnds/2020/07/19/la-crueldad-de-schrodinger/)
-- [El camino de un Backend Developer (en 2020)](https://www.programando.org/blog/2020/07/05/el-camino-de-un-backend-developer-en-2020/)
 <!-- BLOG-POST-LIST:END -->
 
 
