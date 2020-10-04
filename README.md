@@ -29,6 +29,7 @@
 ## Últimos posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Esa Complejidad que tu jefe ignora](https://lnds.net/blog/lnds/2020/10/04/esa-complejidad-que-tu-jefe-ignora/)
 - [El Camino Del Backend Developer: ¿Front End?](https://www.programando.org/blog/2020/09/26/el-camino-del-backend-developer-front-end/)
 - [El Camino Del Backend Developer: DNS, segunda parte](https://www.programando.org/blog/2020/09/06/el-camino-del-backend-developer-dns-segunda-parte/)
 - [El Camino Del Backend Developer: DNS](https://www.programando.org/blog/2020/09/05/el-camino-del-backend-developer-dns/)
@@ -38,7 +39,6 @@
 - [El Camino Del Backend Developer: Browsers](https://www.programando.org/blog/2020/08/19/el-camino-del-backend-developer-browsers/)
 - [Quince](https://lnds.net/blog/lnds/2020/08/01/quince/)
 - [El Camino Del Backend Developer: HTTP](https://www.programando.org/blog/2020/07/31/el-camino-del-backend-developer-http/)
-- [La Crueldad de Schrodinger](https://lnds.net/blog/lnds/2020/07/19/la-crueldad-de-schrodinger/)
 <!-- BLOG-POST-LIST:END -->
 
 
