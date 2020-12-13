@@ -29,6 +29,7 @@
 ## Últimos posts
 
 <!-- BLOG-POST-LIST:START -->
+- [El Camino Del Backend Developer: JavaScript](https://www.programando.org/blog/2020/12/12/el-camino-del-backend-developer-javascript/)
 - [El Camino Del Backend Developer: HTML y CSS](https://www.programando.org/blog/2020/10/11/el-camino-del-backend-developer-html-y-css/)
 - [Esa Complejidad que tu jefe ignora](https://lnds.net/blog/lnds/2020/10/04/esa-complejidad-que-tu-jefe-ignora/)
 - [El Camino Del Backend Developer: ¿Front End?](https://www.programando.org/blog/2020/09/26/el-camino-del-backend-developer-front-end/)
@@ -38,7 +39,6 @@
 - [Veintinueve Años De Linux](https://lnds.net/blog/lnds/2020/08/25/veintinueve-anos-de-linux/)
 - [Tres Buenas Prácticas para gestionar tu Código](https://lnds.net/blog/lnds/2020/08/21/tres-buenas-practicas-para-gestionar-tu-codigo/)
 - [El Camino Del Backend Developer: Browsers](https://www.programando.org/blog/2020/08/19/el-camino-del-backend-developer-browsers/)
-- [Quince](https://lnds.net/blog/lnds/2020/08/01/quince/)
 <!-- BLOG-POST-LIST:END -->
 
 
