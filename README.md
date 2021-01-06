@@ -29,6 +29,7 @@
 ## Últimos posts
 
 <!-- BLOG-POST-LIST:START -->
+- [La Amplitud De Tu Conocimiento, La Profundidad De Tu Ignorancia](https://lnds.net/blog/lnds/2021/01/06/la-amplitud-de-tu-conocimiento-la-profundidad-de-tu-ignorancia/)
 - [Goodbye Stranger](https://lnds.net/blog/lnds/2020/12/13/goodbye-stranger/)
 - [El Camino Del Backend Developer: JavaScript](https://www.programando.org/blog/2020/12/12/el-camino-del-backend-developer-javascript/)
 - [El Camino Del Backend Developer: HTML y CSS](https://www.programando.org/blog/2020/10/11/el-camino-del-backend-developer-html-y-css/)
@@ -38,7 +39,6 @@
 - [El Camino Del Backend Developer: DNS](https://www.programando.org/blog/2020/09/05/el-camino-del-backend-developer-dns/)
 - [Si es chileno, ¿es bueno?](https://lnds.net/blog/lnds/2020/08/27/si-es-chileno-es-bueno/)
 - [Veintinueve Años De Linux](https://lnds.net/blog/lnds/2020/08/25/veintinueve-anos-de-linux/)
-- [Tres Buenas Prácticas para gestionar tu Código](https://lnds.net/blog/lnds/2020/08/21/tres-buenas-practicas-para-gestionar-tu-codigo/)
 <!-- BLOG-POST-LIST:END -->
 
 
