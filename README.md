@@ -29,6 +29,7 @@
 ## Últimos posts
 
 <!-- BLOG-POST-LIST:START -->
+- [El Camino Del Backend Developer: Sistemas de Archivos](https://www.programando.org/blog/2021/03/06/el-camino-del-backend-developer-sistemas-de-archivos/)
 - [Libros del Mes](https://lnds.net/blog/lnds/2021/02/27/libros-del-mes/)
 - [El Camino Del Backend Developer: Hilos y Concurrencia](https://www.programando.org/blog/2021/02/20/el-camino-del-backend-developer-hilos-y-concurrencia/)
 - [El Camino Del Backend Developer: Procesos](https://www.programando.org/blog/2021/02/13/el-camino-del-backend-developer-procesos/)
@@ -38,7 +39,6 @@
 - [El Camino Del Backend Developer: JavaScript](https://www.programando.org/blog/2020/12/12/el-camino-del-backend-developer-javascript/)
 - [El Camino Del Backend Developer: HTML y CSS](https://www.programando.org/blog/2020/10/11/el-camino-del-backend-developer-html-y-css/)
 - [Esa Complejidad que tu jefe ignora](https://lnds.net/blog/lnds/2020/10/04/esa-complejidad-que-tu-jefe-ignora/)
-- [El Camino Del Backend Developer: ¿Front End?](https://www.programando.org/blog/2020/09/26/el-camino-del-backend-developer-front-end/)
 <!-- BLOG-POST-LIST:END -->
 
 
