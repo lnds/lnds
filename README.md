@@ -30,15 +30,15 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [iPad es mi Copiloto](https://lnds.net/blog/lnds/2021/03/16/ipad-es-mi-copiloto/)
+- [El Camino Del Backend Developer: Sistemas de Archivos](https://www.programando.org/blog/2021/03/06/el-camino-del-backend-developer-sistemas-de-archivos/)
 - [Libros del Mes](https://lnds.net/blog/lnds/2021/02/27/libros-del-mes/)
+- [El Camino Del Backend Developer: Hilos y Concurrencia](https://www.programando.org/blog/2021/02/20/el-camino-del-backend-developer-hilos-y-concurrencia/)
+- [El Camino Del Backend Developer: Procesos](https://www.programando.org/blog/2021/02/13/el-camino-del-backend-developer-procesos/)
+- [El Camino Del Backend Developer: Sistemas Operativos](https://www.programando.org/blog/2021/02/09/el-camino-del-backend-developer-sistemas-operativos/)
 - [La Amplitud De Tu Conocimiento, La Profundidad De Tu Ignorancia](https://lnds.net/blog/lnds/2021/01/06/la-amplitud-de-tu-conocimiento-la-profundidad-de-tu-ignorancia/)
 - [Goodbye Stranger](https://lnds.net/blog/lnds/2020/12/13/goodbye-stranger/)
-- [Esa Complejidad que tu jefe ignora](https://lnds.net/blog/lnds/2020/10/04/esa-complejidad-que-tu-jefe-ignora/)
-- [Si es chileno, ¿es bueno?](https://lnds.net/blog/lnds/2020/08/27/si-es-chileno-es-bueno/)
-- [Veintinueve Años De Linux](https://lnds.net/blog/lnds/2020/08/25/veintinueve-anos-de-linux/)
-- [Tres Buenas Prácticas para gestionar tu Código](https://lnds.net/blog/lnds/2020/08/21/tres-buenas-practicas-para-gestionar-tu-codigo/)
-- [Quince](https://lnds.net/blog/lnds/2020/08/01/quince/)
-- [La Crueldad de Schrodinger](https://lnds.net/blog/lnds/2020/07/19/la-crueldad-de-schrodinger/)
+- [El Camino Del Backend Developer: JavaScript](https://www.programando.org/blog/2020/12/12/el-camino-del-backend-developer-javascript/)
+- [El Camino Del Backend Developer: HTML y CSS](https://www.programando.org/blog/2020/10/11/el-camino-del-backend-developer-html-y-css/)
 <!-- BLOG-POST-LIST:END -->
 
 
