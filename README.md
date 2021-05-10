@@ -29,6 +29,7 @@
 ## Últimos posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hablemos de Entropia de Software](https://lnds.net/blog/lnds/2021/05/08/hablemos-de-entropia-de-software/)
 - [El Camino del Backend Developer: Comandos de Terminal](https://www.programando.org/blog/2021/04/24/el-camino-del-backend-developer-comandos-de-terminal/)
 - [El Camino del Backend Developer: Interprocess Communication](https://www.programando.org/blog/2021/04/03/el-camino-del-backend-developer-interprocess-communication/)
 - [Libros del Mes - Marzo 2021](https://lnds.net/blog/lnds/2021/03/31/libros-del-mes-marzo-2021/)
@@ -38,7 +39,6 @@
 - [Libros del Mes](https://lnds.net/blog/lnds/2021/02/27/libros-del-mes/)
 - [El Camino Del Backend Developer: Hilos y Concurrencia](https://www.programando.org/blog/2021/02/20/el-camino-del-backend-developer-hilos-y-concurrencia/)
 - [El Camino Del Backend Developer: Procesos](https://www.programando.org/blog/2021/02/13/el-camino-del-backend-developer-procesos/)
-- [El Camino Del Backend Developer: Sistemas Operativos](https://www.programando.org/blog/2021/02/09/el-camino-del-backend-developer-sistemas-operativos/)
 <!-- BLOG-POST-LIST:END -->
 
 
