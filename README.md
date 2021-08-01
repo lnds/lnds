@@ -29,6 +29,7 @@
 ## Últimos posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dieciseis Años](https://lnds.net/blog/lnds/2021/07/31/dieciseis-anos/)
 - [Libros del mes: junio y julio](https://lnds.net/blog/lnds/2021/07/31/libros-del-mes-junio-y-julio/)
 - [Antes "too" esto era campo](https://lnds.net/blog/lnds/2021/07/11/antes-too-esto-era-campo/)
 - [El Camino Del Backend Developer: Lenguajes Formales](https://www.programando.org/blog/2021/06/28/el-camino-del-backend-developer-lenguajes-formales/)
@@ -38,7 +39,6 @@
 - [El Camino del Backend Developer: Comandos de Terminal](https://www.programando.org/blog/2021/04/24/el-camino-del-backend-developer-comandos-de-terminal/)
 - [El Camino del Backend Developer: Interprocess Communication](https://www.programando.org/blog/2021/04/03/el-camino-del-backend-developer-interprocess-communication/)
 - [Libros del Mes - marzo 2021](https://lnds.net/blog/lnds/2021/03/31/libros-del-mes-marzo-2021/)
-- [Por qué y cómo gestionar el conocimiento](https://lnds.net/blog/lnds/2021/03/28/por-que-y-como-gestionar-el-conocimiento/)
 <!-- BLOG-POST-LIST:END -->
 
 
