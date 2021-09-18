@@ -38,7 +38,7 @@
 - [El Camino Del Backend Developer: Lenguajes Formales](https://www.programando.org/blog/2021/06/28/el-camino-del-backend-developer-lenguajes-formales/)
 - [Libros Del Mes: abril y mayo](https://lnds.net/blog/lnds/2021/05/30/libros-del-mes-abril-y-mayo/)
 - [Equilibrio y Entropía de Software](https://lnds.net/blog/lnds/2021/05/16/equilibrio-y-entropia-de-software/)
-- [Hablemos de Entropia de Software](https://lnds.net/blog/lnds/2021/05/08/hablemos-de-entropia-de-software/)
+- [Hablemos de Entropía de Software](https://lnds.net/blog/lnds/2021/05/08/hablemos-de-entropia-de-software/)
 <!-- BLOG-POST-LIST:END -->
 
 
