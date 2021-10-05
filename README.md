@@ -29,6 +29,7 @@
 ## Últimos posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Libros del Mes: Agosto y Septiembre](https://lnds.net/blog/lnds/2021/10/05/libros-del-mes-agosto-y-septiembre/)
 - [El Camino Del Backend Developer: Gestión de Tipos y Memoria](https://www.programando.org/blog/2021/09/27/el-camino-del-backend-developer-gestion-de-tipos-y-memoria/)
 - [Cómo aprender a programar en un nuevo Lenguaje](https://lnds.net/blog/lnds/2021/09/05/como-aprender-a-programar-en-un-nuevo-lenguaje/)
 - [El Camino del Backend Developer: Compiladores e Intérpretes](https://www.programando.org/blog/2021/08/22/el-camino-del-backend-developer-compiladores-e-interpretes/)
@@ -38,7 +39,6 @@
 - [Antes "too" esto era campo](https://lnds.net/blog/lnds/2021/07/11/antes-too-esto-era-campo/)
 - [El Camino Del Backend Developer: Lenguajes Formales](https://www.programando.org/blog/2021/06/28/el-camino-del-backend-developer-lenguajes-formales/)
 - [Libros Del Mes: abril y mayo](https://lnds.net/blog/lnds/2021/05/30/libros-del-mes-abril-y-mayo/)
-- [Equilibrio y Entropía de Software](https://lnds.net/blog/lnds/2021/05/16/equilibrio-y-entropia-de-software/)
 <!-- BLOG-POST-LIST:END -->
 
 
