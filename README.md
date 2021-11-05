@@ -29,6 +29,7 @@
 ## Últimos posts
 
 <!-- BLOG-POST-LIST:START -->
+- [FOMO](https://lnds.net/blog/lnds/2021/11/04/fomo/)
 - [Los Principios de la Agilidad](https://lnds.net/blog/lnds/2021/10/10/los-principios-de-la-agilidad/)
 - [Libros del Mes: Agosto y Septiembre](https://lnds.net/blog/lnds/2021/10/05/libros-del-mes-agosto-y-septiembre/)
 - [El Camino Del Backend Developer: Gestión de Tipos y Memoria](https://www.programando.org/blog/2021/09/27/el-camino-del-backend-developer-gestion-de-tipos-y-memoria/)
@@ -38,7 +39,6 @@
 - [Dieciseis Años](https://lnds.net/blog/lnds/2021/07/31/dieciseis-anos/)
 - [Libros del mes: junio y julio](https://lnds.net/blog/lnds/2021/07/31/libros-del-mes-junio-y-julio/)
 - [Antes "too" esto era campo](https://lnds.net/blog/lnds/2021/07/11/antes-too-esto-era-campo/)
-- [El Camino Del Backend Developer: Lenguajes Formales](https://www.programando.org/blog/2021/06/28/el-camino-del-backend-developer-lenguajes-formales/)
 <!-- BLOG-POST-LIST:END -->
 
 
