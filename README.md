@@ -38,7 +38,7 @@
 - [El Camino del Backend Developer: Lenguajes de Programación](https://www.programando.org/blog/2021/08/07/el-camino-del-backend-developer-lenguajes-de-programacion/)
 - [Dieciseis Años](https://lnds.net/blog/lnds/2021/07/31/dieciseis-anos/)
 - [Libros del mes: junio y julio](https://lnds.net/blog/lnds/2021/07/31/libros-del-mes-junio-y-julio/)
-- [Antes "too" esto era campo](https://lnds.net/blog/lnds/2021/07/11/antes-too-esto-era-campo/)
+- [Antes &quot;too&quot; esto era campo](https://lnds.net/blog/lnds/2021/07/11/antes-too-esto-era-campo/)
 <!-- BLOG-POST-LIST:END -->
 
 
