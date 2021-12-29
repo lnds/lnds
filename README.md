@@ -29,6 +29,7 @@
 ## Últimos posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Plasticidad](https://lnds.net/blog/lnds/2021/12/29/plasticidad/)
 - [55](https://lnds.net/blog/lnds/2021/11/11/55/)
 - [Libros del Mes: Octubre 2021](https://lnds.net/blog/lnds/2021/11/08/libros-del-mes-octubre-2021/)
 - [FOMO](https://lnds.net/blog/lnds/2021/11/04/fomo/)
@@ -38,7 +39,6 @@
 - [Cómo aprender a programar en un nuevo Lenguaje](https://lnds.net/blog/lnds/2021/09/05/como-aprender-a-programar-en-un-nuevo-lenguaje/)
 - [El Camino del Backend Developer: Compiladores e Intérpretes](https://www.programando.org/blog/2021/08/22/el-camino-del-backend-developer-compiladores-e-interpretes/)
 - [El Camino del Backend Developer: Lenguajes de Programación](https://www.programando.org/blog/2021/08/07/el-camino-del-backend-developer-lenguajes-de-programacion/)
-- [Dieciseis Años](https://lnds.net/blog/lnds/2021/07/31/dieciseis-anos/)
 <!-- BLOG-POST-LIST:END -->
 
 
