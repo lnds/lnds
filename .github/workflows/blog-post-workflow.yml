@@ -13,6 +13,6 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://www.programando.org/post/index.xml,https://lnds.net/post/index.xml,https://akarru.com/post/index.xml"
+          feed_list: "https://www.programando.org/post/index.xml,https://lnds.net/post/atom.xml,https://akarru.com/post/index.xml"
           max_post_count: 10
           
