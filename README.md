@@ -29,16 +29,16 @@
 ## Últimos posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Estafadores](https://lnds.net/blog/lnds/2022/02/05/estafadores/)
+- [Developers, Developers, Developers...](https://lnds.net/blog/lnds/2022/01/05/developers-developers-developers.../)
+- [Plasticidad](https://lnds.net/blog/lnds/2021/12/29/plasticidad/)
+- [55](https://lnds.net/blog/lnds/2021/11/11/55/)
+- [Libros del Mes: Octubre 2021](https://lnds.net/blog/lnds/2021/11/08/libros-del-mes-octubre-2021/)
+- [FOMO](https://lnds.net/blog/lnds/2021/11/04/fomo/)
+- [Los Principios de la Agilidad](https://lnds.net/blog/lnds/2021/10/10/los-principios-de-la-agilidad/)
+- [Libros del Mes: Agosto y Septiembre](https://lnds.net/blog/lnds/2021/10/05/libros-del-mes-agosto-y-septiembre/)
 - [El Camino Del Backend Developer: Gestión de Tipos y Memoria](https://www.programando.org/blog/2021/09/27/el-camino-del-backend-developer-gestion-de-tipos-y-memoria/)
-- [El Camino del Backend Developer: Compiladores e Intérpretes](https://www.programando.org/blog/2021/08/22/el-camino-del-backend-developer-compiladores-e-interpretes/)
-- [El Camino del Backend Developer: Lenguajes de Programación](https://www.programando.org/blog/2021/08/07/el-camino-del-backend-developer-lenguajes-de-programacion/)
-- [El Camino Del Backend Developer: Lenguajes Formales](https://www.programando.org/blog/2021/06/28/el-camino-del-backend-developer-lenguajes-formales/)
-- [El Camino del Backend Developer: Comandos de Terminal](https://www.programando.org/blog/2021/04/24/el-camino-del-backend-developer-comandos-de-terminal/)
-- [El Camino del Backend Developer: Interprocess Communication](https://www.programando.org/blog/2021/04/03/el-camino-del-backend-developer-interprocess-communication/)
-- [El Camino Del Backend Developer: Sistemas de Archivos](https://www.programando.org/blog/2021/03/06/el-camino-del-backend-developer-sistemas-de-archivos/)
-- [El Camino Del Backend Developer: Hilos y Concurrencia](https://www.programando.org/blog/2021/02/20/el-camino-del-backend-developer-hilos-y-concurrencia/)
-- [El Camino Del Backend Developer: Procesos](https://www.programando.org/blog/2021/02/13/el-camino-del-backend-developer-procesos/)
-- [El Camino Del Backend Developer: Sistemas Operativos](https://www.programando.org/blog/2021/02/09/el-camino-del-backend-developer-sistemas-operativos/)
+- [Cómo aprender a programar en un nuevo Lenguaje](https://lnds.net/blog/lnds/2021/09/05/como-aprender-a-programar-en-un-nuevo-lenguaje/)
 <!-- BLOG-POST-LIST:END -->
 
 
