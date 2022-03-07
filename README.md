@@ -29,7 +29,8 @@
 ## Últimos posts
 
 <!-- BLOG-POST-LIST:START -->
-- [El Camino Del Backend Developer: Control de Versiones](https://www.programando.org/blog/2022/02/20/el-camino-del-backend-developer-control-de-versiones/)
+- [El Camino Del Backend Developer: Bases De Datos](https://www.programando.org/blog/2022/03/06/el-camino-del-backend-developer-bases-de-datos/)
+- [El Camino del Backend Developer: Control de Versiones](https://www.programando.org/blog/2022/02/20/el-camino-del-backend-developer-control-de-versiones/)
 - [Estafadores](https://lnds.net/blog/lnds/2022/02/05/estafadores/)
 - [Developers, Developers, Developers...](https://lnds.net/blog/lnds/2022/01/05/developers-developers-developers.../)
 - [Plasticidad](https://lnds.net/blog/lnds/2021/12/29/plasticidad/)
@@ -38,7 +39,6 @@
 - [FOMO](https://lnds.net/blog/lnds/2021/11/04/fomo/)
 - [Los Principios de la Agilidad](https://lnds.net/blog/lnds/2021/10/10/los-principios-de-la-agilidad/)
 - [Libros del Mes: Agosto y Septiembre](https://lnds.net/blog/lnds/2021/10/05/libros-del-mes-agosto-y-septiembre/)
-- [El Camino Del Backend Developer: Gestión de Tipos y Memoria](https://www.programando.org/blog/2021/09/27/el-camino-del-backend-developer-gestion-de-tipos-y-memoria/)
 <!-- BLOG-POST-LIST:END -->
 
 
