@@ -29,6 +29,7 @@
 ## Últimos posts
 
 <!-- BLOG-POST-LIST:START -->
+- [El Camino Del Backend Developer: NoSQL](https://www.programando.org/blog/2022/03/13/el-camino-del-backend-developer-nosql/)
 - [El Camino Del Backend Developer: Bases De Datos](https://www.programando.org/blog/2022/03/06/el-camino-del-backend-developer-bases-de-datos/)
 - [El Camino del Backend Developer: Control de Versiones](https://www.programando.org/blog/2022/02/20/el-camino-del-backend-developer-control-de-versiones/)
 - [Estafadores](https://lnds.net/blog/lnds/2022/02/05/estafadores/)
@@ -38,7 +39,6 @@
 - [Libros del Mes: Octubre 2021](https://lnds.net/blog/lnds/2021/11/08/libros-del-mes-octubre-2021/)
 - [FOMO](https://lnds.net/blog/lnds/2021/11/04/fomo/)
 - [Los Principios de la Agilidad](https://lnds.net/blog/lnds/2021/10/10/los-principios-de-la-agilidad/)
-- [Libros del Mes: Agosto y Septiembre](https://lnds.net/blog/lnds/2021/10/05/libros-del-mes-agosto-y-septiembre/)
 <!-- BLOG-POST-LIST:END -->
 
 
