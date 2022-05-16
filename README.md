@@ -29,6 +29,7 @@
 ## Últimos posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Interoperabilidad y Seguridad](https://lnds.net/blog/lnds/2022/05/16/interoperabilidad-y-seguridad/)
 - [Nómades](https://lnds.net/blog/lnds/2022/04/24/nomades/)
 - [Charlas](https://lnds.net/talks/)
 - [El Camino Del Backend Developer: NoSQL](https://www.programando.org/blog/2022/03/13/el-camino-del-backend-developer-nosql/)
@@ -38,7 +39,6 @@
 - [Developers, Developers, Developers...](https://lnds.net/blog/lnds/2022/01/05/developers-developers-developers.../)
 - [Plasticidad](https://lnds.net/blog/lnds/2021/12/29/plasticidad/)
 - [55](https://lnds.net/blog/lnds/2021/11/11/55/)
-- [Libros del Mes: Octubre 2021](https://lnds.net/blog/lnds/2021/11/08/libros-del-mes-octubre-2021/)
 <!-- BLOG-POST-LIST:END -->
 
 
