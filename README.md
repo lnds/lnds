@@ -49,9 +49,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lnds)](https://github.com/anuraghazra/github-readme-stats)
 
-
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lnds)](https://github.com/anuraghazra/github-readme-stats)
-
 [website]: https://lnds.net/
 [website]: https://programando.org/
 [website]: https://akarru.com/
