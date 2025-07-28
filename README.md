@@ -29,16 +29,16 @@
 ## Últimos posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Al principio fue la linea de comandos...](https://example.org/blog/lnds/2025/07/27/al-principio-fue-la-linea-de-comandos.../)
-- [Lo que hemos olvidado sobre internet](https://example.org/blog/lnds/2022/11/05/lo-que-hemos-olvidado-sobre-internet/)
-- [Margaret Hamilton, la primera SRE](https://example.org/blog/lnds/2022/07/24/margaret-hamilton-la-primera-sre/)
-- [Interoperabilidad y Seguridad](https://example.org/blog/lnds/2022/05/16/interoperabilidad-y-seguridad/)
-- [Nómades](https://example.org/blog/lnds/2022/04/24/n%C3%B3mades/)
 - [El Camino Del Backend Developer: NoSQL](https://www.programando.org/blog/2022/03/13/el-camino-del-backend-developer-nosql/)
 - [El Camino Del Backend Developer: Bases De Datos](https://www.programando.org/blog/2022/03/06/el-camino-del-backend-developer-bases-de-datos/)
 - [El Camino del Backend Developer: Control de Versiones](https://www.programando.org/blog/2022/02/20/el-camino-del-backend-developer-control-de-versiones/)
-- [Estafadores](https://example.org/blog/lnds/2022/02/05/estafadores/)
-- [Developers, Developers, Developers...](https://example.org/blog/lnds/2022/01/05/developers-developers-developers.../)
+- [El Camino Del Backend Developer: Gestión de Tipos y Memoria](https://www.programando.org/blog/2021/09/27/el-camino-del-backend-developer-gestion-de-tipos-y-memoria/)
+- [El Camino del Backend Developer: Compiladores e Intérpretes](https://www.programando.org/blog/2021/08/22/el-camino-del-backend-developer-compiladores-e-interpretes/)
+- [El Camino del Backend Developer: Lenguajes de Programación](https://www.programando.org/blog/2021/08/07/el-camino-del-backend-developer-lenguajes-de-programacion/)
+- [El Camino Del Backend Developer: Lenguajes Formales](https://www.programando.org/blog/2021/06/28/el-camino-del-backend-developer-lenguajes-formales/)
+- [El Camino del Backend Developer: Comandos de Terminal](https://www.programando.org/blog/2021/04/24/el-camino-del-backend-developer-comandos-de-terminal/)
+- [El Camino del Backend Developer: Interprocess Communication](https://www.programando.org/blog/2021/04/03/el-camino-del-backend-developer-interprocess-communication/)
+- [El Camino Del Backend Developer: Sistemas de Archivos](https://www.programando.org/blog/2021/03/06/el-camino-del-backend-developer-sistemas-de-archivos/)
 <!-- BLOG-POST-LIST:END -->
 
 
