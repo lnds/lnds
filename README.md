@@ -29,16 +29,16 @@
 ## Últimos posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Lo que hemos olvidado sobre internet](https://example.org/posts/2022-11-05-lo-que-hemos-olvidado-sobre-internet/)
-- [Margaret Hamilton, la primera SRE](https://example.org/posts/2022-07-24-margaret-hamilton/)
-- [Interoperabilidad y Seguridad](https://example.org/posts/2022-05-16-interoperabilidad-y-seguridad/)
-- [Nómades](https://example.org/posts/2022-04-24-nomades/)
+- [Lo que hemos olvidado sobre internet](https://example.org/blog/lnds/2022/11/05/lo-que-hemos-olvidado-sobre-internet/)
+- [Margaret Hamilton, la primera SRE](https://example.org/blog/lnds/2022/07/24/margaret-hamilton-la-primera-sre/)
+- [Interoperabilidad y Seguridad](https://example.org/blog/lnds/2022/05/16/interoperabilidad-y-seguridad/)
+- [Nómades](https://example.org/blog/lnds/2022/04/24/n%C3%B3mades/)
 - [El Camino Del Backend Developer: NoSQL](https://www.programando.org/blog/2022/03/13/el-camino-del-backend-developer-nosql/)
 - [El Camino Del Backend Developer: Bases De Datos](https://www.programando.org/blog/2022/03/06/el-camino-del-backend-developer-bases-de-datos/)
 - [El Camino del Backend Developer: Control de Versiones](https://www.programando.org/blog/2022/02/20/el-camino-del-backend-developer-control-de-versiones/)
-- [Estafadores](https://example.org/posts/2022-02-05-estafadores/)
-- [Developers, Developers, Developers...](https://example.org/posts/2022-01-05-developers-developers/)
-- [Plasticidad](https://example.org/posts/2021/2021-12-29-plasticidad/)
+- [Estafadores](https://example.org/blog/lnds/2022/02/05/estafadores/)
+- [Developers, Developers, Developers...](https://example.org/blog/lnds/2022/01/05/developers-developers-developers.../)
+- [Plasticidad](https://example.org/blog/lnds/2021/12/29/plasticidad/)
 <!-- BLOG-POST-LIST:END -->
 
 
