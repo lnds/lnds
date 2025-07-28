@@ -29,6 +29,7 @@
 ## Últimos posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Al principio fue la linea de comandos...](https://example.org/blog/lnds/2025/07/27/al-principio-fue-la-linea-de-comandos.../)
 - [Lo que hemos olvidado sobre internet](https://example.org/blog/lnds/2022/11/05/lo-que-hemos-olvidado-sobre-internet/)
 - [Margaret Hamilton, la primera SRE](https://example.org/blog/lnds/2022/07/24/margaret-hamilton-la-primera-sre/)
 - [Interoperabilidad y Seguridad](https://example.org/blog/lnds/2022/05/16/interoperabilidad-y-seguridad/)
@@ -38,7 +39,6 @@
 - [El Camino del Backend Developer: Control de Versiones](https://www.programando.org/blog/2022/02/20/el-camino-del-backend-developer-control-de-versiones/)
 - [Estafadores](https://example.org/blog/lnds/2022/02/05/estafadores/)
 - [Developers, Developers, Developers...](https://example.org/blog/lnds/2022/01/05/developers-developers-developers.../)
-- [Plasticidad](https://example.org/blog/lnds/2021/12/29/plasticidad/)
 <!-- BLOG-POST-LIST:END -->
 
 
