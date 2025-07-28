@@ -34,11 +34,11 @@
 - [Margaret Hamilton, la primera SRE](https://example.org/blog/lnds/2022/07/24/margaret-hamilton-la-primera-sre/)
 - [Interoperabilidad y Seguridad](https://example.org/blog/lnds/2022/05/16/interoperabilidad-y-seguridad/)
 - [Nómades](https://example.org/blog/lnds/2022/04/24/n%C3%B3mades/)
-- [El Camino Del Backend Developer: NoSQL](https://www.programando.org/blog/2022/03/13/el-camino-del-backend-developer-nosql/)
-- [El Camino Del Backend Developer: Bases De Datos](https://www.programando.org/blog/2022/03/06/el-camino-del-backend-developer-bases-de-datos/)
-- [El Camino del Backend Developer: Control de Versiones](https://www.programando.org/blog/2022/02/20/el-camino-del-backend-developer-control-de-versiones/)
 - [Estafadores](https://example.org/blog/lnds/2022/02/05/estafadores/)
 - [Developers, Developers, Developers...](https://example.org/blog/lnds/2022/01/05/developers-developers-developers.../)
+- [Plasticidad](https://example.org/blog/lnds/2021/12/29/plasticidad/)
+- [55](https://example.org/blog/lnds/2021/11/11/55/)
+- [Libros del Mes: Octubre 2021](https://example.org/blog/lnds/2021/11/08/libros-del-mes-octubre-2021/)
 <!-- BLOG-POST-LIST:END -->
 
 
