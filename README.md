@@ -29,16 +29,16 @@
 ## Últimos posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Al principio fue la linea de comandos...](https://example.org/blog/lnds/2025/07/27/al-principio-fue-la-linea-de-comandos.../)
-- [Lo que hemos olvidado sobre internet](https://example.org/blog/lnds/2022/11/05/lo-que-hemos-olvidado-sobre-internet/)
-- [Margaret Hamilton, la primera SRE](https://example.org/blog/lnds/2022/07/24/margaret-hamilton-la-primera-sre/)
-- [Interoperabilidad y Seguridad](https://example.org/blog/lnds/2022/05/16/interoperabilidad-y-seguridad/)
-- [Nómades](https://example.org/blog/lnds/2022/04/24/n%C3%B3mades/)
-- [El Camino Del Backend Developer: NoSQL](https://www.programando.org/blog/2022/03/13/el-camino-del-backend-developer-nosql/)
-- [El Camino Del Backend Developer: Bases De Datos](https://www.programando.org/blog/2022/03/06/el-camino-del-backend-developer-bases-de-datos/)
-- [El Camino del Backend Developer: Control de Versiones](https://www.programando.org/blog/2022/02/20/el-camino-del-backend-developer-control-de-versiones/)
-- [Estafadores](https://example.org/blog/lnds/2022/02/05/estafadores/)
-- [Developers, Developers, Developers...](https://example.org/blog/lnds/2022/01/05/developers-developers-developers.../)
+- [Distopía](https://www.akarru.com/blog/2020/06/28/distop%C3%ADa/)
+- [Un mundo post pandemia](https://www.akarru.com/blog/2020/03/14/un-mundo-post-pandemia/)
+- [La Niña](https://www.akarru.com/blog/2020/02/16/la-nina-relato/)
+- [Neil Peart](https://www.akarru.com/blog/2020/01/11/neil-peart/)
+- [Las Barbas de ZZ Top](https://www.akarru.com/blog/2013/04/14/las-barbas-de-zz-top/)
+- [Nacimiento](https://www.akarru.com/blog/2012/12/25/nacimiento/)
+- [¿Donde están los Supersónicos?](https://www.akarru.com/blog/2012/09/25/donde-estan-los-supersonicos/)
+- [Victor Jara](https://www.akarru.com/blog/2012/09/16/victor-jara/)
+- [La Felicidad](https://www.akarru.com/blog/2012/07/29/la-felicidad/)
+- [Adios Themo](https://www.akarru.com/blog/2012/07/24/adios-themo/)
 <!-- BLOG-POST-LIST:END -->
 
 
