@@ -29,7 +29,7 @@
 ## Últimos posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Al principio fue la linea de comandos...](https://example.org/blog/lnds/2025/07/27/al-principio-fue-la-linea-de-comandos.../)
+- [Al principio fue la línea de comandos...](https://example.org/blog/lnds/2025/07/27/al-principio-fue-la-l%C3%ADnea-de-comandos.../)
 - [Lo que hemos olvidado sobre internet](https://example.org/blog/lnds/2022/11/05/lo-que-hemos-olvidado-sobre-internet/)
 - [Margaret Hamilton, la primera SRE](https://example.org/blog/lnds/2022/07/24/margaret-hamilton-la-primera-sre/)
 - [Interoperabilidad y Seguridad](https://example.org/blog/lnds/2022/05/16/interoperabilidad-y-seguridad/)
