@@ -29,6 +29,7 @@
 ## Últimos posts
 
 <!-- BLOG-POST-LIST:START -->
+- [To Vibe or not to Vibe, that is the question](https://lnds.net/blog/lnds/2025/07/29/to-vibe-or-not-to-vibe-that-is-the-question/)
 - [Al principio fue la línea de comandos...](https://lnds.net/blog/lnds/2025/07/27/al-principio-fue-la-l%C3%ADnea-de-comandos.../)
 - [Lo que hemos olvidado sobre internet](https://lnds.net/blog/lnds/2022/11/05/lo-que-hemos-olvidado-sobre-internet/)
 - [Margaret Hamilton, la primera SRE](https://lnds.net/blog/lnds/2022/07/24/margaret-hamilton-la-primera-sre/)
@@ -38,7 +39,6 @@
 - [El Camino Del Backend Developer: Bases De Datos](https://www.programando.org/blog/2022/03/06/el-camino-del-backend-developer-bases-de-datos/)
 - [El Camino del Backend Developer: Control de Versiones](https://www.programando.org/blog/2022/02/20/el-camino-del-backend-developer-control-de-versiones/)
 - [Estafadores](https://lnds.net/blog/lnds/2022/02/05/estafadores/)
-- [Developers, Developers, Developers...](https://lnds.net/blog/lnds/2022/01/05/developers-developers-developers.../)
 <!-- BLOG-POST-LIST:END -->
 
 
