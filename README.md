@@ -38,7 +38,7 @@
 - [Margaret Hamilton, la primera SRE](https://lnds.net/blog/lnds/2022/07/24/margaret-hamilton-la-primera-sre/)
 - [Interoperabilidad y Seguridad](https://lnds.net/blog/lnds/2022/05/16/interoperabilidad-y-seguridad/)
 - [Nómades](https://lnds.net/blog/lnds/2022/04/24/n%C3%B3mades/)
-- [Estafadores](https://lnds.net/blog/lnds/2022/02/05/estafadores/)
+- [El Camino Del Backend Developer: NoSQL](https://www.programando.org/blog/2022/03/13/el-camino-del-backend-developer-nosql/)
 <!-- BLOG-POST-LIST:END -->
 
 
