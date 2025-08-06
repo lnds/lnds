@@ -29,16 +29,16 @@
 ## Últimos posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Agente Code, Claude Code](https://lnds.net/blog/lnds/2025/08/04/2025-08-04-agente/)
-- [20 Años](https://lnds.net/blog/lnds/2025/08/01/2025-08-01-aniversario-20/)
-- [Confía en el Proceso](https://lnds.net/blog/lnds/2025/07/31/2025-07-31-confia-en-el-proceso/)
-- [Por unos pocos tokens más](https://lnds.net/blog/lnds/2025/07/30/por-unos-pocos-tokens-m%C3%A1s/)
-- [To Vibe or not to Vibe, that is the question](https://lnds.net/blog/lnds/2025/07/29/to-vibe-or-not-to-vibe-that-is-the-question/)
-- [Al principio fue la línea de comandos...](https://lnds.net/blog/lnds/2025/07/27/al-principio-fue-la-l%C3%ADnea-de-comandos.../)
-- [Lo que hemos olvidado sobre internet](https://lnds.net/blog/lnds/2022/11/05/lo-que-hemos-olvidado-sobre-internet/)
-- [Margaret Hamilton, la primera SRE](https://lnds.net/blog/lnds/2022/07/24/margaret-hamilton-la-primera-sre/)
-- [Interoperabilidad y Seguridad](https://lnds.net/blog/lnds/2022/05/16/interoperabilidad-y-seguridad/)
-- [Nómades](https://lnds.net/blog/lnds/2022/04/24/n%C3%B3mades/)
+- [Distopía](https://www.akarru.com/blog/2020/06/28/distop%C3%ADa/)
+- [Un mundo post pandemia](https://www.akarru.com/blog/2020/03/14/un-mundo-post-pandemia/)
+- [La Niña](https://www.akarru.com/blog/2020/02/16/la-nina-relato/)
+- [Neil Peart](https://www.akarru.com/blog/2020/01/11/neil-peart/)
+- [Las Barbas de ZZ Top](https://www.akarru.com/blog/2013/04/14/las-barbas-de-zz-top/)
+- [Nacimiento](https://www.akarru.com/blog/2012/12/25/nacimiento/)
+- [¿Donde están los Supersónicos?](https://www.akarru.com/blog/2012/09/25/donde-estan-los-supersonicos/)
+- [Victor Jara](https://www.akarru.com/blog/2012/09/16/victor-jara/)
+- [La Felicidad](https://www.akarru.com/blog/2012/07/29/la-felicidad/)
+- [Adios Themo](https://www.akarru.com/blog/2012/07/24/adios-themo/)
 <!-- BLOG-POST-LIST:END -->
 
 
