@@ -29,6 +29,7 @@
 ## Últimos posts
 
 <!-- BLOG-POST-LIST:START -->
+- [El Fin del Software Artesanal](https://lnds.net/blog/lnds/2025/08/27/2025-08-27-el-fin-del-software-artesanal/)
 - [Agente Code, Claude Code](https://lnds.net/blog/lnds/2025/08/04/2025-08-04-agente/)
 - [20 Años](https://lnds.net/blog/lnds/2025/08/01/2025-08-01-aniversario-20/)
 - [Confía en el Proceso](https://lnds.net/blog/lnds/2025/07/31/2025-07-31-confia-en-el-proceso/)
@@ -38,7 +39,6 @@
 - [Lo que hemos olvidado sobre internet](https://lnds.net/blog/lnds/2022/11/05/lo-que-hemos-olvidado-sobre-internet/)
 - [Margaret Hamilton, la primera SRE](https://lnds.net/blog/lnds/2022/07/24/margaret-hamilton-la-primera-sre/)
 - [Interoperabilidad y Seguridad](https://lnds.net/blog/lnds/2022/05/16/interoperabilidad-y-seguridad/)
-- [Nómades](https://lnds.net/blog/lnds/2022/04/24/n%C3%B3mades/)
 <!-- BLOG-POST-LIST:END -->
 
 
