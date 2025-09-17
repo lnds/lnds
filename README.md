@@ -29,16 +29,16 @@
 ## Últimos posts
 
 <!-- BLOG-POST-LIST:START -->
-- [El Camino Del Backend Developer: NoSQL](https://www.programando.org/blog/2022/03/13/el-camino-del-backend-developer-nosql/)
-- [El Camino Del Backend Developer: Bases De Datos](https://www.programando.org/blog/2022/03/06/el-camino-del-backend-developer-bases-de-datos/)
-- [El Camino del Backend Developer: Control de Versiones](https://www.programando.org/blog/2022/02/20/el-camino-del-backend-developer-control-de-versiones/)
-- [El Camino Del Backend Developer: Gestión de Tipos y Memoria](https://www.programando.org/blog/2021/09/27/el-camino-del-backend-developer-gestion-de-tipos-y-memoria/)
-- [El Camino del Backend Developer: Compiladores e Intérpretes](https://www.programando.org/blog/2021/08/22/el-camino-del-backend-developer-compiladores-e-interpretes/)
-- [El Camino del Backend Developer: Lenguajes de Programación](https://www.programando.org/blog/2021/08/07/el-camino-del-backend-developer-lenguajes-de-programacion/)
-- [El Camino Del Backend Developer: Lenguajes Formales](https://www.programando.org/blog/2021/06/28/el-camino-del-backend-developer-lenguajes-formales/)
-- [El Camino del Backend Developer: Comandos de Terminal](https://www.programando.org/blog/2021/04/24/el-camino-del-backend-developer-comandos-de-terminal/)
-- [El Camino del Backend Developer: Interprocess Communication](https://www.programando.org/blog/2021/04/03/el-camino-del-backend-developer-interprocess-communication/)
-- [El Camino Del Backend Developer: Sistemas de Archivos](https://www.programando.org/blog/2021/03/06/el-camino-del-backend-developer-sistemas-de-archivos/)
+- [Ingeniería de Software como Tecnología](https://lnds.net/blog/lnds/2025/09/14/ingenieria-de-software-como-tecnologia/)
+- [El Fin del Software Artesanal](https://lnds.net/blog/lnds/2025/08/27/2025-08-27-el-fin-del-software-artesanal/)
+- [Agente Code, Claude Code](https://lnds.net/blog/lnds/2025/08/04/2025-08-04-agente/)
+- [20 Años](https://lnds.net/blog/lnds/2025/08/01/2025-08-01-aniversario-20/)
+- [Confía en el Proceso](https://lnds.net/blog/lnds/2025/07/31/2025-07-31-confia-en-el-proceso/)
+- [Por unos pocos tokens más](https://lnds.net/blog/lnds/2025/07/30/por-unos-pocos-tokens-m%C3%A1s/)
+- [To Vibe or not to Vibe, that is the question](https://lnds.net/blog/lnds/2025/07/29/to-vibe-or-not-to-vibe-that-is-the-question/)
+- [Al principio fue la línea de comandos...](https://lnds.net/blog/lnds/2025/07/27/al-principio-fue-la-l%C3%ADnea-de-comandos.../)
+- [Lo que hemos olvidado sobre internet](https://lnds.net/blog/lnds/2022/11/05/lo-que-hemos-olvidado-sobre-internet/)
+- [Margaret Hamilton, la primera SRE](https://lnds.net/blog/lnds/2022/07/24/margaret-hamilton-la-primera-sre/)
 <!-- BLOG-POST-LIST:END -->
 
 
