@@ -14,6 +14,8 @@
 
 [<img align="left" alt="ediaz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">][linkedin]
 
+[<img align="left" alt="lnds | Patreon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/patreon.svg">][patreon]
+
 <br>
 <br>
 
@@ -52,6 +54,7 @@
 [website]: https://akarru.com/
 [twitter]: https://twitter.com/lnds
 [linkedin]: https://www.linkedin.com/in/ediaz/
+[patreon]: https://www.patreon.com/lnds
 
 
 [ogu]: https://github.com/ogu-lang
