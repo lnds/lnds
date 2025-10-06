@@ -26,16 +26,6 @@
 ## Últimos posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Distopía](https://www.akarru.com/blog/2020/06/28/distop%C3%ADa/)
-- [Un mundo post pandemia](https://www.akarru.com/blog/2020/03/14/un-mundo-post-pandemia/)
-- [La Niña](https://www.akarru.com/blog/2020/02/16/la-nina-relato/)
-- [Neil Peart](https://www.akarru.com/blog/2020/01/11/neil-peart/)
-- [Las Barbas de ZZ Top](https://www.akarru.com/blog/2013/04/14/las-barbas-de-zz-top/)
-- [Nacimiento](https://www.akarru.com/blog/2012/12/25/nacimiento/)
-- [¿Donde están los Supersónicos?](https://www.akarru.com/blog/2012/09/25/donde-estan-los-supersonicos/)
-- [Victor Jara](https://www.akarru.com/blog/2012/09/16/victor-jara/)
-- [La Felicidad](https://www.akarru.com/blog/2012/07/29/la-felicidad/)
-- [Adios Themo](https://www.akarru.com/blog/2012/07/24/adios-themo/)
 <!-- BLOG-POST-LIST:END -->
 
 
