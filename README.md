@@ -7,8 +7,6 @@
 
 ## I'm developer, speaker and blogger (mainly in spanish).
 
-## I made a new programing language:
-
 
 ### Contáctame (Contact me):
 
@@ -34,8 +32,10 @@
 - [Margaret Hamilton, la primera SRE](https://lnds.net/blog/lnds/2022/07/24/margaret-hamilton-la-primera-sre/)
 <!-- BLOG-POST-LIST:END -->
 
-
 ---
+
+[![wakatime](https://wakatime.com/badge/user/4dd7584b-5f59-4848-8f6f-b29567daaf33.svg)](https://wakatime.com/@4dd7584b-5f59-4848-8f6f-b29567daaf33)
+
 
 <img align="left" alt="LNDS  Github Stats" src="https://github-readme-stats.vercel.app/api?username=lnds&show_icons=true&hide_border=true&rank_icon=default&include_all_commits=true" />
 
