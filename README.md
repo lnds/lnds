@@ -51,7 +51,6 @@
 [website]: https://akarru.com/
 [twitter]: https://twitter.com/lnds
 [linkedin]: https://www.linkedin.com/in/ediaz/
-[facebook]: https://www.facebook.com/EduardoDiazCortes
-[kofi]: https://ko-fi.com/lnds
+
 
 [ogu]: https://github.com/ogu-lang
