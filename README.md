@@ -36,7 +36,10 @@
 
 <img align="left" alt="LNDS WAKATIME" src="https://wakatime.com/badge/user/4dd7584b-5f59-4848-8f6f-b29567daaf33.svg" />
 
+
 <br>
+
+![LNDS WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lnds\&layout=compact)
 
 ---
 
